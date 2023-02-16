@@ -1,7 +1,8 @@
 <template>
-  <div>
-    <h1>게시판</h1>
-  </div>
+  <form>
+    <button>Button</button>
+    <input type="submit" />
+  </form>
 </template>
 
 <script>
