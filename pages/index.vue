@@ -14,7 +14,7 @@ export default {
   },
   methods: {
     testMethod() {
-      return "hello hello hello";
+      return "test1";
     }
   },
 };
