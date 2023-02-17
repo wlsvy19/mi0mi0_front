@@ -1,10 +1,6 @@
 <template>
   <div>
-    <h1>index</h1>
-    <h1>index</h1>
-    <h1>index</h1>
-    <h1>index</h1>
-    <h1>index</h1>
+    <h1>구인/구직</h1>
   </div>
 </template>
 

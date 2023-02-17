@@ -1,10 +1,6 @@
 <template>
   <div>
-    <h1>index</h1>
-    <h1>index</h1>
-    <h1>index</h1>
-    <h1>index</h1>
-    <h1>index</h1>
+    <h1>이벤트</h1>
   </div>
 </template>
 
